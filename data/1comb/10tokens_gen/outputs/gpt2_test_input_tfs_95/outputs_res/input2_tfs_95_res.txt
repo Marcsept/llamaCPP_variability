@@ -1,0 +1,3 @@
+Give me a Python script with two functions, the first initializes a window with a pump on center and second adds a tree and links it at the closer Tree or pump.
+
+A quick hack on this for later I

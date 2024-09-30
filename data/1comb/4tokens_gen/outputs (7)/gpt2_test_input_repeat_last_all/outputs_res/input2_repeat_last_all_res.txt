@@ -1,0 +1,3 @@
+Give me a Python script with two function, the first initialisate a windows with a pump on center and seconde add a tree and link it at the closer Tree or pump (you can use cercle and square to represente tree and pump)
+
+You can
